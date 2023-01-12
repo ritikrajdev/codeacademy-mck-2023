@@ -1,1 +1,2 @@
-cool feature
+cool feature2
+cool feature3
